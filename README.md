@@ -1,3 +1,5 @@
+### Hey!:earth_africa:
+
 - 🔭 I’m currently working on small university based cryptography projects.
 - 🌱 I’m currently studying Computer Science & Informtion Technology at NUIG.
 - 👯 I’m looking to collaborate on opensource web dev and software dev.
